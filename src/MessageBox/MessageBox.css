@@ -140,7 +140,7 @@
     background: linear-gradient(to top, rgba(0,0,0,0.33), transparent);
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    color: #222e35;
+    color: white;
 }
 
 .rce-mbox--clear-padding {
