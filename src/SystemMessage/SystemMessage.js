@@ -20,7 +20,7 @@ export class SystemMessage extends Component {
 				/>
 				<Mayre
 					of={
-						<div className={classNames('rce-container-smsgd', this.props.className)}>
+						<div className={classNames('rce-container-smsg', this.props.className)}>
 							<div className="rce-smsg">
 								<div className="rce-smsg-text">{this.props.date}</div>
 							</div>

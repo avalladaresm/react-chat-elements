@@ -9,7 +9,7 @@
     width: 30px;
     height: 30px;
     border-radius: 20px;
-    background: #fff;
+    background: #222e35;
     position: absolute;
     /*display: none;*/
     flex-direction: row;
@@ -50,7 +50,7 @@
 
 .rce-mbox {
     position: relative;
-    background: white;
+    background: #222e35;
     border-radius: 5px;
     box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, .2);
     border-top-left-radius: 0px;
@@ -84,7 +84,7 @@
 }
 
 .rce-mbox.rce-mbox-right {
-    background: #dcf8c6;
+    background: #054740;
     float: right;
     margin-left: 5px;
     margin-right: 20px;
@@ -140,7 +140,7 @@
     background: linear-gradient(to top, rgba(0,0,0,0.33), transparent);
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    color: #fff;
+    color: #222e35;
 }
 
 .rce-mbox--clear-padding {
@@ -158,7 +158,7 @@
     top: 0px;
     width: 15px;
     height: 15px;
-    fill: #dcf8c6;
+    fill: #054740;
     filter: drop-shadow( 2px 0px 1px rgba(0, 0, 0, .2));
 }
 
@@ -181,7 +181,7 @@
     top: 0px;
     width: 15px;
     height: 15px;
-    fill: white;
+    fill: #222e35;
 }
 
 .rce-mbox-left-notch.message-focus {
